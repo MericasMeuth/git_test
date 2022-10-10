@@ -1,2 +1,2 @@
 Hello.
-Trying to test new VScode setting.
+Test.
